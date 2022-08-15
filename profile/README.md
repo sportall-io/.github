@@ -5,18 +5,16 @@ Welcome!
 
 This is **Sprenty** GitHub Team. Here, you can read [Documentation](#documentation).
 
-Our Main Repository [https://](https://)
-
 Main discussions page [https://github.com/orgs/sprenty-com/teams/main-team](https://github.com/orgs/sprenty-com/teams/main-team) 
 
 ## Documentation
 
-[Front-end Documentation](https://)
+[Front-end Documentation](https://) (For Front-end Developers)
 
-[Back-end Documentation](https://)
+[Back-end Documentation](https://)  (For Back-end Developers)
 
 
 ## Demo
 
-Here you can visit out Demo website before deployment [Website](https://)
+Here you can visit out Demo website before deployment [Website](https://nextjs.sprenty.com)
 
