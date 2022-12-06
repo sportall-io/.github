@@ -1,17 +1,17 @@
 
-# Sprenty - სფრენთი
+# sportall.io
 
 Welcome! 
 
-This is **Sprenty** GitHub Team. Here, you can read [Documentation](#documentation).
+This is **sportall.io** GitHub Team. Here, you can read [Documentation](#documentation).
 
-Main discussions page [https://github.com/orgs/sprenty-com/teams/main-team](https://github.com/orgs/sprenty-com/teams/main-team) 
+Main discussions page [https://github.com/orgs/sportall-io/teams/main-team](https://github.com/orgs/sportall-io/teams/main-team) 
 
 ## Documentation
 
 [Front-end Documentation](https://) (For Front-end Developers)
 
-[Back-end Documentation](https://github.com/sprenty-com/sprenty-api/blob/main/README.md)  (For Back-end Developers)
+[Back-end Documentation](https://github.com/sprenty-com/sportall-io/blob/main/README.md)  (For Back-end Developers)
 
 
 ## Demo
